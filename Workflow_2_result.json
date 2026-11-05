@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "total_files": 15,
+  "total_documents": 15,
+  "cmw408zm202lypp1e71a02xsg::case-18.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "영업허가 신청",
+        "procedure": "일반음식점 영업신고 문의",
+        "review_needed": "true",
+        "review_reason": "영업소 소재지의 시·군이 미정입니다."
+      }
+    }
+  },
+  "cmw408zsg02lzpp1eqbg90804::case-20.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "정보공개 청구",
+        "procedure": "용역 계약서 정보공개 신청",
+        "location": "포항",
+        "agency": "포항고용노동지청",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408z6v02lxpp1el0qn6txj::case-17.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "영업허가 신청",
+        "procedure": "건강기능식품 판매점 영업신고 제출처 문의",
+        "location": "안동시",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408tq002lvpp1e7e2twmd0::case-15.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "건축 인허가 민원",
+        "procedure": "건축물 사용승인 신청",
+        "location": "부산 서구",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408tpx02ltpp1em3iztsz2::case-12.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "행정기관에 대한 건의",
+        "procedure": "무더위 쉼터 안내판 형식 통일 정책 제안 문의",
+        "location": "대구광역시",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408toh02lspp1emx59mn68::case-09.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "생활 불편 민원",
+        "procedure": "공공시설물 피해 배상 문의",
+        "location": "거제시",
+        "agency": "거제시",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408twy02lwpp1eb9zi5sz7::case-13.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "고충민원",
+        "procedure": "민원 처리 지연 시정 신청",
+        "location": "부산 사하구",
+        "agency": "부산 사하구청, 사하구 옴부즈만",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw408tpz02lupp1exwvkelw1::case-11.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "행정기관에 대한 건의",
+        "procedure": "시내버스 승강장 큰 글씨 표시 표준의 시 전체 적용 정책 제안",
+        "location": "부산",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw3yxf7u02ehpp1echmc4x4f::case-16.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "건축 인허가 민원",
+        "procedure": "건축물 해체허가 신청 경로 문의",
+        "location": "밀양시",
+        "review_needed": "false",
+        "form_facts": "확인된 지역: 밀양시"
+      }
+    }
+  },
+  "cmw3yxf7702efpp1ef9db0hq6::case-10.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "생활 불편 민원",
+        "procedure": "공공시설물 피해 배상 문의",
+        "location": "대구 북구",
+        "review_needed": "true",
+        "review_reason": "시설 관리 주체가 불명확함"
+      }
+    }
+  },
+  "cmw3yxfeh02eipp1emf4vybnd::case-14.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "고충민원",
+        "procedure": "구민고충처리위원회 팩스 신청 후 수신 확인 문의",
+        "location": "대구 북구",
+        "agency": "구민고충처리위원회",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw3yxf7h02egpp1er0yras40::case-19.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "정보공개 청구",
+        "procedure": "2025년 공공시설 안전점검 결과 문서 정보공개 청구",
+        "location": "문경시",
+        "agency": "문경시청",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw3s25n700depp1en7vp02u4::case-06.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "정보공개 청구",
+        "procedure": "도로 보수공사 계약 내역 정보공개 청구",
+        "location": "경북 포항시",
+        "agency": "포항시청",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw3s25rd00dgpp1ej7p0b0zh::case-05.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "영업허가 신청",
+        "procedure": "통신판매업 신고 문의",
+        "location": "경북 구미시",
+        "review_needed": "false"
+      }
+    }
+  },
+  "cmw3s25nl00dfpp1et5znczcy::case-03.eml": {
+    "추출-1": {
+      "type": "extract",
+      "data": {
+        "category": "고충민원",
+        "procedure": "민원 처리 지연 시정 신청 문의",
+        "location": "대구 북구",
+        "agency": "구민고충처리위원회",
+        "review_needed": "false"
+      }
+    }
+  }
+}
